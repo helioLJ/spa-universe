@@ -1,0 +1,13 @@
+body {
+  background-image: url("../assets/mountains-universe-1.png");
+  
+  place-items: center;
+}
+
+#explore {
+  text-align: center;
+}
+
+#explore h1 {
+  margin-bottom: 2.4rem;
+}
